@@ -1,0 +1,19 @@
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #cc0000;
+    padding: 10px;
+    float:none;
+    text-align:left;
+}
+#answer{
+    width: 60%;
+}
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
+#player_one_input,#player_two_input{
+    width: 60%;
+    margin-left: 20%;
+}
